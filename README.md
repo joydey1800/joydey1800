@@ -7,12 +7,19 @@
 
 
 <p><em>Web Developer😊👌
+</br><h2>Profile 👉👉👉 <a href="https://joydey.netlify.app/">joydey.netlify.app</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h2>
+
+</em>
 </p>
 
 [![Twitter: joydey1800](https://img.shields.io/twitter/follow/joydey1800?style=social)](https://twitter.com/joydey1800)
 
 
 [![GitHub joydey1800](https://img.shields.io/github/followers/joydey1800?label=follow&style=social)](https://github.com/joydey1800)
+
+
+
 
 
 
